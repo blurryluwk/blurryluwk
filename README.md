@@ -1,4 +1,6 @@
-### Olá! Me chamo Lucas França.
+### Olá! Me chamo Lucas Henrique.
+
+![Lucas Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=blurryluwk&hide=contribs,prs&theme=github_dark)
 
 ## Tecnologias que utilizo:
 <div style="display: inline_block"> 
